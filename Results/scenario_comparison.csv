@@ -1,0 +1,7 @@
+scenario,status,total_cost,cost__procurement_freight_tariff_risk,cost__variable_production,cost__facility_fixed,cost__distribution,facilities_open,num_facilities_open,cost_delta_vs_baseline,pct_change_vs_baseline
+Baseline,Optimal,14451734.8,6043124.8,3495750.0,845000.0,4067860.0,"F2, F3, F5",3,0.0,0.0
+High Tariff (Trade War),Optimal,14489979.6,6081369.6,3495750.0,845000.0,4067860.0,"F2, F3, F5",3,38244.79999999888,0.26
+Supplier Disruption (China),Optimal,14724303.899999999,6849513.9,3897755.0,1050000.0,2927035.0,"F1, F2, F3",3,272569.09999999776,1.89
+Demand Surge (+30%),Optimal,18655229.380000003,7952649.880000001,4580007.0,845000.0,5277572.5,"F2, F3, F5",3,4203494.580000002,29.09
+Facility Outage (Chennai),Optimal,15594741.1,7162331.1,4083335.0,1065000.0,3284075.0,"F1, F2, F5",3,1143006.2999999989,7.91
+Risk-Averse Sourcing (3x premium),Optimal,15325525.3,7450735.3,3897755.0,1050000.0,2927035.0,"F1, F2, F3",3,873790.5,6.05
