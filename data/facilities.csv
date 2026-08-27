@@ -1,0 +1,6 @@
+facility_id,name,country,capacity_units,fixed_cost_usd,variable_cost_per_unit,regulatory_index
+F1,Rotterdam Assembly Plant,Netherlands,2200,480000,950,0.95
+F2,Monterrey Assembly Plant,Mexico,2600,310000,620,0.8
+F3,Chennai Assembly Plant,India,3000,260000,540,0.78
+F4,Ohio Assembly Plant,USA,2000,610000,1120,0.98
+F5,Bangkok Assembly Plant,Thailand,2400,275000,580,0.82

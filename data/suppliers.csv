@@ -1,0 +1,11 @@
+supplier_id,name,country,component,capacity_units,unit_cost_usd,lead_time_days,risk_score
+S1,Nordic Precision Components,Germany,Superconducting Magnets,1200,8400,21,0.12
+S2,Rhine Semicon Labs,Germany,Imaging Sensors,3000,2100,14,0.1
+S3,Kansai Optics Corp,Japan,Precision Optics,2500,1650,18,0.15
+S4,Shenzhen MedTech Fab,China,PCB Assemblies,5000,640,25,0.35
+S5,Suzhou Alloy Works,China,Chassis / Casings,4200,480,22,0.33
+S6,Bengaluru Semitech,India,Imaging Sensors,2800,1750,16,0.22
+S7,Pune Precision Tools,India,PCB Assemblies,3600,700,19,0.2
+S8,Minnesota Medical Materials,USA,Superconducting Magnets,900,9600,10,0.08
+S9,Ohio Alloy & Casing,USA,Chassis / Casings,2600,610,9,0.07
+S10,Seoul Optics & Sensors,S. Korea,Precision Optics,2200,1580,15,0.14

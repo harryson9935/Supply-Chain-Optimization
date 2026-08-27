@@ -1,0 +1,7 @@
+region_id,name,demand_units,service_level_min
+D1,North America,1400,0.97
+D2,Western Europe,1250,0.97
+D3,East Asia,1600,0.95
+D4,South Asia,900,0.93
+D5,Middle East,550,0.94
+D6,Latin America,700,0.93
